@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
+remote_theme: "realwear/GitHubPagesTemplates/ProductTheme"
 
 plugins:
   - jekyll-remote-theme
