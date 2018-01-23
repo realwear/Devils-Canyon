@@ -1,7 +1,7 @@
 ---
 title: Devil's Canyon
 description: Demo app to show how to use WearML to optimize an application for the HMT-1 
-link: #download
+link: "#download"
 ---
 
 ## Introduction
