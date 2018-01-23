@@ -1,5 +1,5 @@
 ---
-link: https://realwear.box.com/s/b4hmjso6yb7vn5pndkwfve1qmx7qj1gk
+link: #Download
 ---
 
 ## Introduction
@@ -12,7 +12,13 @@ While the application is automatically voice enabled by the HMT-1, WearML can be
 
 ![Devil's Canyon application without any modifications](https://realwear.github.io/Devils-Canyon/images/devilscanyon.png)
 
-## Contents
+## Download
+
+The Devil's Canyon application can be downloaded as a compiled APK ready to be installed.
+
+[Download Zip](https://realwear.box.com/shared/static/b4hmjso6yb7vn5pndkwfve1qmx7qj1gk.zip)
+
+### Contents of Zip
 
 * DevilsCanyon.apk - The Devil's Canyon application without any modifications
 
