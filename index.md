@@ -24,6 +24,6 @@ The Devil's Canyon application can be downloaded as a compiled APK ready to be i
 
 * DevilsCanyon.apk - The Devil's Canyon application without any modifications
 
-## [Tutorial](https://realwear.github.io/Devils-Canyon/tutorial)
+## [Tutorial](https://realwear.github.io/wearML-tutorial-scripting)
 
 ## [Release Notes](https://realwear.github.io/Devils-Canyon/release-notes)
