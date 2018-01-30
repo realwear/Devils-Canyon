@@ -1,4 +1,6 @@
 remote_theme: "realwear/GitHubPagesTheme@product"
 
+title: Devils-Canyon
+
 plugins:
   - jekyll-remote-theme
