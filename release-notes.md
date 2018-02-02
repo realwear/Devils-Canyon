@@ -1,5 +1,5 @@
 ---
-title: Release Notes
+title: Release notes
 ---
 
 Below are the release notes for each version of the Devil's Canyon application.
