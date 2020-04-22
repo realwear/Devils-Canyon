@@ -20,7 +20,7 @@
             android:layout_weight="1"
             android:scaleType="fitCenter"
             android:background="@null"
-            android:layout_marginLeft="5dp" />
+            android:layout_marginStart="5dp" />
 
         <ImageButton
             android:id="@+id/sunshine"
@@ -43,7 +43,7 @@
             android:layout_weight="1"
             android:scaleType="fitCenter"
             android:background="@null"
-            android:layout_marginRight="5dp" />
+            android:layout_marginEnd="5dp" />
     </LinearLayout>
 
     <LinearLayout

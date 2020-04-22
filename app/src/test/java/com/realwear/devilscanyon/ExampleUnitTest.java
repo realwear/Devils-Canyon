@@ -1,4 +1,4 @@
-package com.samples.realwear.wearml;
+package com.realwear.devilscanyon;
 
 import org.junit.Test;
 

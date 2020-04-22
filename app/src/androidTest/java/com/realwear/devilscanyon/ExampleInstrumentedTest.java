@@ -1,4 +1,4 @@
-package com.samples.realwear.wearml;
+package com.realwear.devilscanyon;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

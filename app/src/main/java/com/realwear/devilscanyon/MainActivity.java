@@ -31,8 +31,8 @@ public class MainActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_main);
 
-        mTitle = (TextView) findViewById(R.id.title);
-        mDescription = (TextView) findViewById(R.id.description);
+        mTitle = findViewById(R.id.title);
+        mDescription = findViewById(R.id.description);
     }
 
     /**
